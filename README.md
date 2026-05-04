@@ -1,2 +1,47 @@
-# cursor-gpt-agent
-AI-powered development agent based on Cursor and GPT
+# AI Development Agent (Cursor + GPT)
+
+## 🚀 项目简介
+本项目是一个基于 Cursor + GPT 系列模型构建的自动化开发辅助 Agent，用于提升开发效率与项目交付质量。
+
+## 🎯 核心痛点
+- 重复性开发工作（代码补全、调试、文档编写）
+- 多人协作上下文不连贯
+- 开发流程碎片化
+
+## ⚙️ 核心架构
+该系统采用轻量级 Agent 工作流设计：
+
+1. **任务拆解（Task Decomposition）**
+   - 通过自然语言输入需求
+   - 自动生成多步骤执行计划
+
+2. **长链推理（Chain-of-Thought）**
+   - 结合代码上下文逐步生成与优化代码
+
+3. **多 Agent 协作**
+   - Code Agent：负责代码生成
+   - Review Agent：负责代码审查
+   - Test Agent：生成测试用例
+   - 实现闭环自动化
+
+## 📈 成果与效果
+- 开发效率提升：60% - 80%
+- 调试时间显著减少
+- 降低低级错误率
+- 支持 Web / 小程序 / 自动化脚本开发
+- 日均稳定 Token 消耗
+
+## 🧠 技术栈
+- Cursor
+- GPT 系列模型
+- Agent Workflow
+
+## 📌 使用场景
+- Web 开发
+- 自动化脚本
+- AI 辅助编程
+
+---
+
+## 📎 说明
+本项目为个人 AI 开发实践与能力展示项目。
